@@ -131,15 +131,15 @@ MDPI 2022 연구(80M+ 유저 실험)에서 무차별적 보상 지급이 이탈�
 
 ### SHAP Feature Importance
 
-![SHAP](reports/shap_importance.png)
+![SHAP](assets/shap_importance.png)
 
 ### 모델 평가
 
-![Model Evaluation](reports/model_evaluation.png)
+![Model Evaluation](assets/model_evaluation.png)
 
 ### A/B 테스트 결과
 
-![AB Test](reports/ab_test_results.png)
+![AB Test](assets/ab_test_results.png)
 
 ---
 
