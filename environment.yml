@@ -1,0 +1,17 @@
+name: ai-ltv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas=2.2
+  - numpy=1.26
+  - scikit-learn=1.4
+  - matplotlib=3.8
+  - seaborn=0.13
+  - jupyter
+  - tqdm
+  - pip
+  - pip:
+    - xgboost==2.0.3
+    - shap==0.45.0
